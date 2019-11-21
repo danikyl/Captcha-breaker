@@ -1,5 +1,4 @@
-//Daniel De Marco Fucci BSI 2019
-//N USP: 11218639
+//Daniel De Marco Fucci
 
 #ifndef _CAPTCHA_
 #define _CAPTCHA_
